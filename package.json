@@ -63,7 +63,7 @@
     "extract-zip": "2.0.1",
     "https-proxy-agent": "5.0.0",
     "node-fetch": "2.6.7",
-    "pkg-dir": "4.2.0",
+    "pkg-dir": "6.0.1",
     "progress": "2.0.3",
     "proxy-from-env": "1.1.0",
     "rimraf": "3.0.2",
